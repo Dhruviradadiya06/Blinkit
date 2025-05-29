@@ -4,14 +4,14 @@ Uncovering Insights with Power BI: A Deep Dive into Blinkit's Sales Performance!
 
 In today's data-driven world, businesses thrive when decisions are powered by analytics, not assumptions. That's exactly what I aimed for transforming Blinkit's raw data into actionable insights using Power BI.
 
-The Objective?
+The Objective? :
   To analyze Blinkit's sales performance, customer satisfaction, and inventory distribution - and uncover patterns that could drive smarter business strategies.
   
 Core KPIs Tracked:
-  Total Sales
-  Average Sales Per Order
-  Number of Items Sold
-  Customer Ratings
+  Total Sales,
+  Average Sales Per Order,
+  Number of Items Sold,
+  Customer Ratings,
 
 Key Insights Uncovered:
   High-fat content items drive more sales but score lower in customer ratings.
