@@ -22,3 +22,4 @@ Key Insights Uncovered:
   Sales vary across geographic locations, showing regional preferences.
   Some outlet types underperform, as shown in the matrix view.
   
+![Blinkit png](https://github.com/user-attachments/assets/3a365709-4556-47c2-8085-c02e156d903f)
